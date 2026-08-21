@@ -25,7 +25,7 @@ A função `normalize_batch(scores: list[float]) -> list[float]` realiza a trans
 
 ---
 
-## 🧪 Estratégia de Testes
+## Estratégia de Testes
 
 A suíte de testes foi estruturada em duas camadas complementares:
 
